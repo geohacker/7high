@@ -4,7 +4,7 @@
   <title><![CDATA[7 High Street]]></title>
   <link href="http://geohacker.github.io/7high/atom.xml" rel="self"/>
   <link href="http://geohacker.github.io/7high/"/>
-  <updated>2013-10-30T22:08:18+05:30</updated>
+  <updated>2013-10-30T22:18:12+05:30</updated>
   <id>http://geohacker.github.io/7high/</id>
   <author>
     <name><![CDATA[Uncommon]]></name>
@@ -13,10 +13,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[GeoBLR Meetup, November 1, 6PM]]></title>
-    <link href="http://geohacker.github.io/7high/blog/2013/10/30/geoblr-meetup/"/>
-    <updated>2013-10-30T22:03:00+05:30</updated>
-    <id>http://geohacker.github.io/7high/blog/2013/10/30/geoblr-meetup</id>
+    <title type="html"><![CDATA[GeoBLR Meetup]]></title>
+    <link href="http://geohacker.github.io/7high/blog/2013/11/01/geoblr-meetup/"/>
+    <updated>2013-11-01T18:00:00+05:30</updated>
+    <id>http://geohacker.github.io/7high/blog/2013/11/01/geoblr-meetup</id>
     <content type="html"><![CDATA[<p>Inspired by GeoDC and the great amount of interest in maps and spatial data, we are announcing the first edition of GeoBLR! We are going to be talking about the idea around GeoBLR and also getting to know everyone who share the same interest. We will have time for everyone to show and tell what they are building. And may be some armchair mapping?</p>
 
 <p>7 High Street is an excellent spot in the center of the city which boasts of great bandwidth and the proximity to some excellent eateries, you won’t be disappointed! Let us know if you have questions and ideas. See you all on Friday!</p>
