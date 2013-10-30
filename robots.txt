@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://geohacker.github.io/7high/sitemap.xml 
